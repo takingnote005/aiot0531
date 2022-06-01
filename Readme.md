@@ -38,6 +38,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ```
 ### step 5: import postgredb (in db/postgre.db)
+![HeidiSQL](heSQL02.png)
 ![HeidiSQL](heSQL01.png)
 
 ### step 6: setting db in app.py
