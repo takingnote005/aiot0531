@@ -1,4 +1,5 @@
 # AIoT Github
+<br>
 
 ## Lecture 16: IoT Flask Web (deploy to heroku)
 #### Author: Ching-Yi Lin 
@@ -64,8 +65,11 @@ Sample link 1:
 https://awinlab-aiot.herokuapp.com/
 
 Sample link 2: 
-https://aiot0529.herokuapp.com/
+https://chingyi0601.herokuapp.com/
 
+### Result: (remote random sensor points)
+
+### Result: (remote after AI  prediction)
 
 ![success](./static/success.jpg)
 
