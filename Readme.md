@@ -61,7 +61,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ### step 8: deploy to github (new public github repositoy 不然看不到)
 
 delete .git and git remote add origin master github.com/xxxxx
-
+![deploy to github](GitOK.png)
 
 ### step 9: Heroku deploy from github
 
