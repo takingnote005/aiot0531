@@ -38,7 +38,7 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ```
 ### step 5: import postgredb (in db/postgre.db)
-![HeidiSQL](img/heSQL01.png)
+![HeidiSQL](heSQL01.png)
 
 ### step 6: setting db in app.py
 
@@ -52,10 +52,10 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 ```
 ### step 7: testing locally by running python app.py
 ### Result: (remote random sensor points)
-![remote random](img/highchart01.png)
-
+![remote random](highchart01.png)
 ### Result: (remote after AI  prediction)
-![AI Prediction](img/highchart02_AI.png)
+![AI Prediction](highchart02_AI.png)
+
 
 ### step 8: deploy to github (new public github repositoy 不然看不到)
 
