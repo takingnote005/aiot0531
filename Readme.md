@@ -51,6 +51,11 @@ mydb="<fill-in-Heroku-Postgredb-DB-db>"
 
 ```
 ### step 7: testing locally by running python app.py
+### Result: (remote random sensor points)
+![img](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/user/Desktop/chingyi0601/aiot0531/highchart01.png?version%3D1654088557806)
+
+### Result: (remote after AI  prediction)
+![img](https://file%2B.vscode-resource.vscode-cdn.net/c%3A/Users/user/Desktop/chingyi0601/aiot0531/highchart01.png?version%3D1654088557806)
 
 ### step 8: deploy to github (new public github repositoy 不然看不到)
 
